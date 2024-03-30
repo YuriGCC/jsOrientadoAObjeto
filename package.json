@@ -1,0 +1,12 @@
+{
+  "name": "primeiro_js_orientado_a_objeto",
+  "version": "1.0.0",
+  "description": "primeiro pequeno projeto de javascript orientado a objeto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yuri",
+  "license": "ISC",
+  "type": "module"
+}
